@@ -13,4 +13,5 @@ End
 - [amr-khalil](https://github.com/amr-khalil)
 
 ### My Projects
-1. [NLP - Sentiment Classifier](https://amr-khalil.github.io/sentiment-classifier.html)and ![Image](src)
+1. [NLP - Sentiment Classifier](https://amr-khalil.github.io/sentiment-classifier.html)
+- ![Image](https://miro.medium.com/max/700/1*ljCBykAJUnvaZcuPYwm4_A.png)
