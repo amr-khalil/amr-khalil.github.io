@@ -23,17 +23,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 For more details see GitHub Flavored Markdown.
 
-Jekyll Themes
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
 
-Support or Contact
-Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
+#### layout title page Contact Contact me through email. 
+[amr.alshemaly93@gmail.com]
 
-Welcome to my Personal Website
-
-layout title page Contact Contact me through email. [amr.alshemaly93@gmail.com]
-
-Checkout my github. [amr-khalil]
+#### Checkout my github.
+[amr-khalil](https://github.com/amr-khalil)
 
 ### My Projects
-[NLP - Sentiment Classifier](https://amr-khalil.github.io/sentiment-classifier.html)
+1. [NLP - Sentiment Classifier](https://amr-khalil.github.io/sentiment-classifier.html)
