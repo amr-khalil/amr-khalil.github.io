@@ -19,120 +19,98 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 - **Architect**
 
   - _Wenzel + Wenzel_
-  - Sep 2018 – Present (1 yr 9 mos)
+  - Sep 2018 – Present
   - Working in Planning from Terminal 3 Frankfurt Airport. Bim Model implementation.
 
-**Architect**
+- **Architect**
 
-Wenzel + Wenzel
-
-Dec 2017 – Aug 2018 (9 mos)
-
-Working with Revit and dynamo 3D model to produce a 3D Model for B.O.Q.
+- _Wenzel + Wenzel_
+- _Dec 2017 – Aug 2018 (9 mos)_
+- Working with Revit and dynamo 3D model to produce a 3D Model for B.O.Q.
 
 **Intern**
 
-_Wenzel + Wenzel_
-
-_Jun 2017 – Nov 2017 (6 mos)_
+  - _Wenzel + Wenzel_
+  - _Jun 2017 – Nov 2017 (6 mos)_
 
 
 ## Education
 
-### Master of Science - MS, Big data & Business Analytics
-
-_FOM University of Applied Sciences for Economics and Management_
-
-_2019 – 2021_
+- ### Master of Science - MS, Big data & Business Analytics
+  - _FOM University of Applied Sciences for Economics and Management_
+  - _2019 – 2021_
 
 ### Machine Learning Engineer Nanodegree, Computer Science
 
-_Udacity_
-
-2019 – 2020
-
-Credential: https://graduation.udacity.com/confirm/C6C5HFRM
+  - _Udacity_
+  - 2019 – 2020
+  - Credential: https://graduation.udacity.com/confirm/C6C5HFRM
 
 **Curriculum:**
 
 1. **Software Engineering Fundamentals**
 
-  In this lesson, you’ll write production-level code and practice object-oriented programming, which you can integrate into machine       learning projects.
+    - In this lesson, you’ll write production-level code and practice object-oriented programming, which you can integrate into machine       learning projects.
 
 2. **Machine Learning in Production**
-  Learn how to deploy machine learning models to a production environment using Amazon SageMaker.
+    - Learn how to deploy machine learning models to a production environment using Amazon SageMaker.
 
 3. **Machine Learning Case Studies**
-   Apply machine learning techniques to solve real-world tasks; explore data and deploy both built-in and custom-made Amazon SageMaker    models.
+    - Apply machine learning techniques to solve real-world tasks; explore data and deploy both built-in and custom-made Amazon SageMaker    models.
 
-4. Machine Learning Capstone
+4. **Machine Learning Capstone**
    In this capstone lesson, you’ll select a machine learning challenge and propose a possible solution.
 
 #### Projects:
 
 1. `Build a Python Package`
 2. `Deploy a Sentiment Analysis Model with Amazon SageMaker`
-3. ```Plagiarism Detector```
-4. ```Dog Breed Classification with Deep Learning```
+3. `Plagiarism Detector`
+4. `Dog Breed Classification with Deep Learning`
 
 ### Computer Vision Nanodegree, Computer Science
+- **Udacity**
+- _2019 – 2020_
+- **Credential:** https://confirm.udacity.com/EMQDJ9GT
 
-Udacity
+1.  **Introduction to Computer Vision**
+    - Master computer vision and image processing essentials. Learn to extract important features from image data, and apply deep  learning     techniques to classification tasks.
 
-2019 – 2020
+2. **Advanced Computer Vision and Deep Learning**
+   - Learn to apply deep learning architectures to computer vision tasks. Discover how to combine CNN and RNN networks to build an  automatic image captioning application.
 
-**Credential:**
-https://confirm.udacity.com/EMQDJ9GT
-
-- Introduction to Computer Vision
-  Master computer vision and image processing essentials. Learn to extract important features from image data, and apply deep learning     techniques to classification tasks.
-
-- Advanced Computer Vision and Deep Learning
-  Learn to apply deep learning architectures to computer vision tasks. Discover how to combine CNN and RNN networks to build an  automatic image captioning application.
-
-- Object Tracking and Localization
- Learn how to locate an object and track it over time. These techniques are used in a variety of moving systems, such as self-driving car navigation and drone flight.
+3 - **Object Tracking and Localization**
+    - Learn how to locate an object and track it over time. These techniques are used in a variety of moving systems, such as self-driving car navigation and drone flight.
 
 **Projects:**
 
-1- ```Facial Keypoint Detection```
-2- ```Automatic Image Captioning```
-3- ```Landmark Detection and Tracking```
+1. `Facial Keypoint Detection`
+2. `Automatic Image Captioning`
+3. `Landmark Detection and Tracking`
 
 
 ### Bachelor of Applied Science - BASc, Wirtschaftsinformatik
 
-_FOM University of Applied Sciences for Economics and Management_
-
-_2018 – 2019_
-
-Überbrückungskurse zur Big Data Master
+- **FOM University of Applied Sciences for Economics and Management**
+- _2018 – 2019_
+- Überbrückungskurse zur Big Data Master
 
 
 ### Bachelor's degree, Architectural Engineering
-Suez Canal University
 
-_2011 – 2016_
-
+- **Suez Canal University- 
+- _2011 – 2016_
 
 ### Licenses & certifications
 
-Object-Oriented Programming in Python - DataCamp**
-Issued Mar 2020
+- **Object-Oriented Programming in Python - DataCamp**
+  - **Credential ID** #13015790`
 
-**Credential ID** #13015790
+- **Web Scraping in Python - DataCamp**
+  - **Credential** `ID #12974093`
 
-**Web Scraping in Python - DataCamp**
-
-Issued Mar 2020
-
-**Credential** ```ID #12974093```
-
-```**Introduction to Natural Language Processing in Python - DataCamp**```
-
-Issued Mar 2020
-
-**Credential** ```ID #12827447```
+- Introduction to Natural Language Processing in Python - DataCamp**
+  - **Credential** `ID #12827447`
 
 
 ### Skills
@@ -148,20 +126,20 @@ Issued Mar 2020
 - ```Reinforcement Learning```
 
 ### Programming Languages
-- ```Python``` *****
-- ```R```      **** 
-- ```Java```   ** 
+- `Python`
+- `R`       
+- `Java` 
 
 ### Softwares
-- ```Keras```  
-- ```Tensorflow```
-- ```Pytorch```
-- ```Sklearn```
-- ```Matplotlib```
-- ```Pandas```
+- `Keras```  
+- `Tensorflow```
+- `Pytorch```
+- `Sklearn```
+- `Matplotlib```
+- `Pandas`
 
 ### Languages
-- ```German```  ****
-- ```English``` ****
-- ```Arabic```  *****
+- `German`
+- `English`
+- `Arabic`
  
