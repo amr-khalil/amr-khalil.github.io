@@ -16,13 +16,11 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 
 ## Experience
 
-```Architect```
+- **Architect**
 
-_Wenzel + Wenzel_
-
-Sep 2018 – Present (1 yr 9 mos)
-
-Working in Planning from Terminal 3 Frankfurt Airport. Bim Model implementation.
+  - _Wenzel + Wenzel_
+  - Sep 2018 – Present (1 yr 9 mos)
+  - Working in Planning from Terminal 3 Frankfurt Airport. Bim Model implementation.
 
 **Architect**
 
@@ -39,42 +37,43 @@ _Wenzel + Wenzel_
 _Jun 2017 – Nov 2017 (6 mos)_
 
 
-### Education
+## Education
 
-```**Master of Science - MS, Big data & Business Analytics**```
+### Master of Science - MS, Big data & Business Analytics
 
 _FOM University of Applied Sciences for Economics and Management_
 
 _2019 – 2021_
 
-```**Machine Learning Engineer Nanodegree, Computer Science**```
+### Machine Learning Engineer Nanodegree, Computer Science
 
 _Udacity_
 
 2019 – 2020
 
-[Credential:](https://graduation.udacity.com/confirm/C6C5HFRM)
+Credential: https://graduation.udacity.com/confirm/C6C5HFRM
 
-- Software Engineering Fundamentals**
+**Curriculum:**
+
+1. **Software Engineering Fundamentals**
 
   In this lesson, you’ll write production-level code and practice object-oriented programming, which you can integrate into machine       learning projects.
 
-- **Machine Learning in Production**
-  
+2. **Machine Learning in Production**
   Learn how to deploy machine learning models to a production environment using Amazon SageMaker.
 
-Machine Learning Case Studies
-Apply machine learning techniques to solve real-world tasks; explore data and deploy both built-in and custom-made Amazon SageMaker models.
+3. **Machine Learning Case Studies**
+   Apply machine learning techniques to solve real-world tasks; explore data and deploy both built-in and custom-made Amazon SageMaker    models.
 
-Machine Learning Capstone
-In this capstone lesson, you’ll select a machine learning challenge and propose a possible solution.
+4. Machine Learning Capstone
+   In this capstone lesson, you’ll select a machine learning challenge and propose a possible solution.
 
 #### Projects:
 
-1. ```**Build a Python Package**```
-2. ```**Deploy a Sentiment Analysis Model with Amazon SageMaker**```
-3. ```**Plagiarism Detector**```
-4. ```**Dog Breed Classification with Deep Learning**```
+1. `Build a Python Package`
+2. `Deploy a Sentiment Analysis Model with Amazon SageMaker`
+3. ```Plagiarism Detector```
+4. ```Dog Breed Classification with Deep Learning```
 
 ### Computer Vision Nanodegree, Computer Science
 
