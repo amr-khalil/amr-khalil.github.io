@@ -71,6 +71,7 @@
 
   3. **Object Tracking and Localization**
       - Learn how to locate an object and track it over time. These techniques are used in a variety of moving systems, such as self-driving car navigation and drone flight.
+      
 
 
 
@@ -78,7 +79,7 @@
   - **FOM University of Applied Sciences for Economics and Management**
   - 2018 – 2019
   - Überbrückungskurse zur Big Data Master
-
+  
 
 - ### Bachelor's degree, Architectural Engineering
   - **Suez Canal University**
