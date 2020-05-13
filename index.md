@@ -24,14 +24,14 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 
 - **Architect**
 
-- _Wenzel + Wenzel_
-- _Dec 2017 – Aug 2018 (9 mos)_
-- Working with Revit and dynamo 3D model to produce a 3D Model for B.O.Q.
+  - _Wenzel + Wenzel_
+  - _Dec 2017 – Aug 2018 (9 mos)_
+  - Working with Revit and dynamo 3D model to produce a 3D Model for B.O.Q.
 
 **Intern**
 
-  - _Wenzel + Wenzel_
-  - _Jun 2017 – Nov 2017 (6 mos)_
+    - _Wenzel + Wenzel_
+    - _Jun 2017 – Nov 2017 (6 mos)_
 
 
 ## Education
@@ -98,13 +98,13 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 
 ### Bachelor's degree, Architectural Engineering
 
-- **Suez Canal University- 
-- _2011 – 2016_
+  - **Suez Canal University- 
+  - _2011 – 2016_
 
 ### Licenses & certifications
 
 - **Object-Oriented Programming in Python - DataCamp**
-  - **Credential ID** #13015790`
+  - **Credential** ´ID #13015790`
 
 - **Web Scraping in Python - DataCamp**
   - **Credential** `ID #12974093`
@@ -114,16 +114,16 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 
 
 ### Skills
-- ```Data Science```
-- ```Deep Learning```
-- ```Natural Language Processing (NLP)```
-- ```Machine Learning```
-- ```Architecture  Construction```  
-- ```Building Information Modeling (BIM)```
-- ```Computer Vision```
-- ```Data Analysis```
-- ```Artificial Intelligence (AI)``` 
-- ```Reinforcement Learning```
+- `Data Science`
+- `Deep Learning`
+- `Natural Language Processing (NLP)`
+- `Machine Learning`
+- `Architecture  Construction`  
+- `Building Information Modeling (BIM)`
+- `Computer Vision`
+- `Data Analysis`
+- `Artificial Intelligence (AI)`
+- `Reinforcement Learning`
 
 ### Programming Languages
 - `Python`
@@ -131,11 +131,11 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 - `Java` 
 
 ### Softwares
-- `Keras```  
-- `Tensorflow```
-- `Pytorch```
-- `Sklearn```
-- `Matplotlib```
+- `Keras`
+- `Tensorflow`
+- `Pytorch`
+- `Sklearn`
+- `Matplotlib`
 - `Pandas`
 
 ### Languages
