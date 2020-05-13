@@ -1,17 +1,141 @@
-# Welcome to my Website
+# Amr Khalil 
+## Architect | Machine Learning Engineer
+## Frankfurt a.M., Germany
 
-**Test Code**  _Lambda_ 
-`x = lambda a, b : a * b
-print(x(5, 6))`
+#### Contact
+[Github](https://github.com/amr-khalil)
+E-mail: amr.alshemaly93@gmail.com
+Linkedin: linkedin.com/in/amrk
+Tel: +49 1733666656
 
-End
 
-#### layout title page Contact Contact me through email. 
-- [amr.alshemaly93@gmail.com]
+### Summary
+Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical inteligence application. I recently using Python to building apps using Machine learning, NLP, Computer Vision and Neuralnetworks. 
 
-#### Checkout my github.
-- [amr-khalil](https://github.com/amr-khalil)
 
-### My Projects
-1. [NLP - Sentiment Classifier](https://amr-khalil.github.io/sentiment-classifier.html)
-- ![Image](https://miro.medium.com/max/700/1*ljCBykAJUnvaZcuPYwm4_A.png)
+### Experience
+
+Architect
+Wenzel + Wenzel
+
+Sep 2018 – Present (1 yr 9 mos)
+
+Working in Planning from Terminal 3 Frankfurt Airport. Bim Model implementation.
+
+
+Logo for Wenzel + Wenzel
+Architect
+Wenzel + Wenzel
+
+Dec 2017 – Aug 2018 (9 mos)
+
+Working with Revit and dynamo 3D model to produce a 3D Model for B.O.Q.
+
+
+Logo for Wenzel + Wenzel 
+Intern
+Wenzel + Wenzel
+Jun 2017 – Nov 2017 (6 mos)
+
+
+Education
+
+Logo for FOM University of Applied Sciences for Economics and Management
+FOM University of Applied Sciences for Economics and Management
+Master of Science - MS, Big data & Business Analytics
+
+2019 – 2021
+
+
+Logo for Udacity
+Udacity
+Machine Learning Engineer Nanodegree, Computer Science
+
+2019 – 2020
+
+Credential: 
+https://graduation.udacity.com/confirm/C6C5HFRM
+
+Software Engineering Fundamentals
+In this lesson, you’ll write production-level code and practice object-oriented programming, which you can integrate into machine learning projects.
+
+Machine Learning in Production
+Learn how to deploy machine learning models to a production environment using Amazon SageMaker.
+
+Machine Learning Case Studies
+Apply machine learning techniques to solve real-world tasks; explore data and deploy both built-in and custom-made Amazon SageMaker models.
+
+Machine Learning Capstone
+In this capstone lesson, you’ll select a machine learning challenge and propose a possible solution.
+
+Projects:
+1- Build a Python Package
+2- Deploy a Sentiment Analysis Model with Amazon SageMaker
+3- Plagiarism Detector
+4- Dog Breed Classification with Deep Learning
+
+
+Logo for Udacity
+Udacity
+Computer Vision Nanodegree, Computer Science
+
+2019 – 2020
+
+Credential:
+https://confirm.udacity.com/EMQDJ9GT
+
+Introduction to Computer Vision
+Master computer vision and image processing essentials. Learn to extract important features from image data, and apply deep learning techniques to classification tasks.
+
+Advanced Computer Vision and Deep Learning
+Learn to apply deep learning architectures to computer vision tasks. Discover how to combine CNN and RNN networks to build an automatic image captioning application.
+
+Object Tracking and Localization
+Learn how to locate an object and track it over time. These techniques are used in a variety of moving systems, such as self-driving car navigation and drone flight.
+
+Projects:
+1- Facial Keypoint Detection
+2- Automatic Image Captioning
+3- Landmark Detection and Tracking
+
+
+Logo for FOM University of Applied Sciences for Economics and Management
+FOM University of Applied Sciences for Economics and Management
+Bachelor of Applied Science - BASc, Wirtschaftsinformatik
+
+2018 – 2019
+
+Überbrückungskurse zur Big Data Master
+
+
+Logo for Suez Canal University
+Suez Canal University
+Bachelor's degree, Architectural Engineering
+
+2011 – 2016
+
+
+Licenses & certifications
+
+Logo for DataCamp
+Object-Oriented Programming in Python - DataCamp
+Issued Mar 2020
+Credential ID #13015790
+
+
+Logo for DataCamp
+Web Scraping in Python - DataCamp
+Issued Mar 2020
+Credential ID #12974093
+
+
+Logo for DataCamp
+Introduction to Natural Language Processing in Python - DataCamp
+Issued Mar 2020
+Credential ID #12827447
+
+
+Skills
+Data Science  Natural Language Processing (NLP)  Machine Learning  Architecture  Construction  Building Information Modeling (BIM)  Computer Vision  Data Analysis  Artificial Intelligence (AI)  Deep Learning
+
+Honors & awards
