@@ -1,12 +1,12 @@
 # Amr Khalil 
 ### Architect | Machine Learning Engineer
-## Frankfurt a.M., Germany
+### Frankfurt a.M., Germany
 
 #### Contact
-[Github](https://github.com/amr-khalil)
-E-mail: amr.alshemaly93@gmail.com
-Linkedin: linkedin.com/in/amrk
-Tel: +49 1733666656
+- [Github](https://github.com/amr-khalil)
+- E-mail: amr.alshemaly93@gmail.com
+- Linkedin: linkedin.com/in/amrk
+- Tel: +49 1733666656
 
 
 ### Summary
@@ -15,52 +15,43 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 
 ### Experience
 
-Architect
+**Architect**
 Wenzel + Wenzel
 
 Sep 2018 – Present (1 yr 9 mos)
 
 Working in Planning from Terminal 3 Frankfurt Airport. Bim Model implementation.
 
-
-Logo for Wenzel + Wenzel
-Architect
+**Architect**
 Wenzel + Wenzel
 
 Dec 2017 – Aug 2018 (9 mos)
 
 Working with Revit and dynamo 3D model to produce a 3D Model for B.O.Q.
 
-
-Logo for Wenzel + Wenzel 
-Intern
+**Intern**
 Wenzel + Wenzel
 Jun 2017 – Nov 2017 (6 mos)
 
 
-Education
+### Education
 
-Logo for FOM University of Applied Sciences for Economics and Management
+**Master of Science - MS, Big data & Business Analytics**
 FOM University of Applied Sciences for Economics and Management
-Master of Science - MS, Big data & Business Analytics
-
 2019 – 2021
 
-
-Logo for Udacity
+**Machine Learning Engineer Nanodegree, Computer Science**
 Udacity
-Machine Learning Engineer Nanodegree, Computer Science
-
 2019 – 2020
 
-Credential: 
+**Credential:** 
 https://graduation.udacity.com/confirm/C6C5HFRM
 
-Software Engineering Fundamentals
-In this lesson, you’ll write production-level code and practice object-oriented programming, which you can integrate into machine learning projects.
+- Software Engineering Fundamentals
+  In this lesson, you’ll write production-level code and practice object-oriented programming, which you can integrate into machine       learning projects.
 
-Machine Learning in Production
-Learn how to deploy machine learning models to a production environment using Amazon SageMaker.
+- Machine Learning in Production
+  Learn how to deploy machine learning models to a production environment using Amazon SageMaker.
 
 Machine Learning Case Studies
 Apply machine learning techniques to solve real-world tasks; explore data and deploy both built-in and custom-made Amazon SageMaker models.
@@ -74,8 +65,6 @@ Projects:
 3- Plagiarism Detector
 4- Dog Breed Classification with Deep Learning
 
-
-Logo for Udacity
 Udacity
 Computer Vision Nanodegree, Computer Science
 
