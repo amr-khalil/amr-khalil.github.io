@@ -1,6 +1,7 @@
 # Amr Khalil 
 ### Architect | Machine Learning Engineer
 ### Frankfurt a.M., Germany
+![Image](https://avatars0.githubusercontent.com/u/44541932?s=460&u=c82f26710ab8f7347e228787bc9183f57c03e52a&v=4)
 
 #### Contact
 - [Github](https://github.com/amr-khalil)
