@@ -89,16 +89,16 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 
 ### Licenses & certifications
 
-- **Object-Oriented Programming in Python - DataCamp**
+#### Object-Oriented Programming in Python - DataCamp**
   - **Credential** ´ID #13015790`
 
-- **Web Scraping in Python - DataCamp**
+#### Web Scraping in Python - DataCamp**
   - **Credential** `ID #12974093`
 
-- **Introduction to Natural Language Processing in Python - DataCamp**
+#### Introduction to Natural Language Processing in Python - DataCamp**
   - **Credential** `ID #12827447`
 
-#### Projects:
+### Projects:
 1. `Build a Python Package`
 2. `Deploy a Sentiment Analysis Model with Amazon SageMaker`
 3. `Plagiarism Detector`
