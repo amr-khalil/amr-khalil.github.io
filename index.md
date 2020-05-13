@@ -87,14 +87,14 @@
   
 ### Licenses & certifications
 
-#### Object-Oriented Programming in Python - DataCamp**
-  - **Credential** ´ID #13015790`
+  - #### Object-Oriented Programming in Python - DataCamp**
+    - **Credential** `ID #13015790`
 
-#### Web Scraping in Python - DataCamp**
-  - **Credential** `ID #12974093`
+  - #### Web Scraping in Python - DataCamp**
+    - **Credential** `ID #12974093`
 
-#### Introduction to Natural Language Processing in Python - DataCamp**
-  - **Credential** `ID #12827447`
+  . #### Introduction to Natural Language Processing in Python - DataCamp**
+    - **Credential** `ID #12827447`
 
 ### Projects:
   1. `Build a Python Package`
