@@ -22,12 +22,11 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
   - Working in Planning from Terminal 3 Frankfurt Airport. Bim Model implementation.
 
 - **Architect**
-
   - _Wenzel + Wenzel_
-  - _Dec 2017 – Aug 2018 (9 mos)_
+  - Dec 2017 – Aug 2018 (9 mos)
   - Working with Revit and dynamo 3D model to produce a 3D Model for B.O.Q.
 
-**Intern**
+- **Intern**
     - _Wenzel + Wenzel_
     - _Jun 2017 – Nov 2017 (6 mos)_
 
@@ -39,23 +38,23 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
   - 2019 – 2021
 
 - ### Machine Learning Engineer Nanodegree, Computer Science
-  - _Udacity_
+  - *Udacity*
   - 2019 – 2020
   - Credential: https://graduation.udacity.com/confirm/C6C5HFRM
 
-**Curriculum:**
+  **Curriculum:**
 
-1. **Software Engineering Fundamentals**
-    - In this lesson, you’ll write production-level code and practice object-oriented programming, which you can integrate into machine       learning projects.
+  1. **Software Engineering Fundamentals**
+     - In this lesson, you’ll write production-level code and practice object-oriented programming, which you can integrate into machine         learning projects.
 
-2. **Machine Learning in Production**
-    - Learn how to deploy machine learning models to a production environment using Amazon SageMaker.
+  2. **Machine Learning in Production**
+      - Learn how to deploy machine learning models to a production environment using Amazon SageMaker.
 
-3. **Machine Learning Case Studies**
-    - Apply machine learning techniques to solve real-world tasks; explore data and deploy both built-in and custom-made Amazon SageMaker    models.
+  3. **Machine Learning Case Studies**
+     - Apply machine learning techniques to solve real-world tasks; explore data and deploy both built-in and custom-made Amazon  SageMaker    models.
 
-4. **Machine Learning Capstone**
-   - In this capstone lesson, you’ll select a machine learning challenge and propose a possible solution.
+  4. **Machine Learning Capstone**
+     - In this capstone lesson, you’ll select a machine learning challenge and propose a possible solution.
 
 
 
