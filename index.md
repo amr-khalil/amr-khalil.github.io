@@ -5,7 +5,7 @@
 #### Contact
 - [Github](https://github.com/amr-khalil)
 - E-mail: amr.alshemaly93@gmail.com
-- [Linkedin: linkedin.com/in/amrk
+- [Linkedin]: linkedin.com/in/amrk
 - Tel: +49 1733666656
 
 
@@ -17,7 +17,7 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 
 **Architect**
 
-Wenzel + Wenzel
+''Wenzel + Wenzel''
 
 Sep 2018 – Present (1 yr 9 mos)
 
@@ -133,21 +133,22 @@ Issued Mar 2020
 
 
 ### Skills
-+ Data Science
-+ Natural Language Processing (NLP)
+- Data Science
+- Deep Learning
+- Natural Language Processing (NLP)
 - Machine Learning
-Architecture  Construction  
-Building Information Modeling (BIM)
-Computer Vision
-Data Analysis
-Artificial Intelligence (AI) 
-Deep Learning
+- Architecture  Construction  
+- Building Information Modeling (BIM)
+- Computer Vision
+- Data Analysis
+- Artificial Intelligence (AI) 
+- Reinforcement Learning
 
 ### Programming Languages
 - Python
 - R
 
-### Software
+### Softwares
 - Keras
 - Tensorflow
 - Pytorch
@@ -155,3 +156,7 @@ Deep Learning
 - Matplotlib
 - Pandas
 
+### Languages
+- German
+- English
+- Arabic
