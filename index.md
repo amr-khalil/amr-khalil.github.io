@@ -17,7 +17,6 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 ## Experience
 
 - **Architect**
-
   - _Wenzel + Wenzel_
   - Sep 2018 – Present
   - Working in Planning from Terminal 3 Frankfurt Airport. Bim Model implementation.
@@ -29,7 +28,6 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
   - Working with Revit and dynamo 3D model to produce a 3D Model for B.O.Q.
 
 **Intern**
-
     - _Wenzel + Wenzel_
     - _Jun 2017 – Nov 2017 (6 mos)_
 
@@ -37,11 +35,10 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 ## Education
 
 - ### Master of Science - MS, Big data & Business Analytics
-  - _FOM University of Applied Sciences for Economics and Management_
-  - _2019 – 2021_
+  - **FOM University of Applied Sciences for Economics and Management**
+  - 2019 – 2021
 
-### Machine Learning Engineer Nanodegree, Computer Science
-
+- ### Machine Learning Engineer Nanodegree, Computer Science
   - _Udacity_
   - 2019 – 2020
   - Credential: https://graduation.udacity.com/confirm/C6C5HFRM
@@ -49,7 +46,6 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 **Curriculum:**
 
 1. **Software Engineering Fundamentals**
-
     - In this lesson, you’ll write production-level code and practice object-oriented programming, which you can integrate into machine       learning projects.
 
 2. **Machine Learning in Production**
@@ -59,14 +55,9 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
     - Apply machine learning techniques to solve real-world tasks; explore data and deploy both built-in and custom-made Amazon SageMaker    models.
 
 4. **Machine Learning Capstone**
-   In this capstone lesson, you’ll select a machine learning challenge and propose a possible solution.
+   - In this capstone lesson, you’ll select a machine learning challenge and propose a possible solution.
 
-#### Projects:
 
-1. `Build a Python Package`
-2. `Deploy a Sentiment Analysis Model with Amazon SageMaker`
-3. `Plagiarism Detector`
-4. `Dog Breed Classification with Deep Learning`
 
 ### Computer Vision Nanodegree, Computer Science
 - **Udacity**
@@ -82,24 +73,19 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 3 - **Object Tracking and Localization**
     - Learn how to locate an object and track it over time. These techniques are used in a variety of moving systems, such as self-driving car navigation and drone flight.
 
-**Projects:**
-
-1. `Facial Keypoint Detection`
-2. `Automatic Image Captioning`
-3. `Landmark Detection and Tracking`
 
 
 ### Bachelor of Applied Science - BASc, Wirtschaftsinformatik
-
 - **FOM University of Applied Sciences for Economics and Management**
-- _2018 – 2019_
+- 2018 – 2019
 - Überbrückungskurse zur Big Data Master
 
 
 ### Bachelor's degree, Architectural Engineering
-
-  - **Suez Canal University- 
-  - _2011 – 2016_
+  - **Suez Canal University**
+  - 2011 – 2016
+  
+</hr>
 
 ### Licenses & certifications
 
@@ -109,8 +95,18 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 - **Web Scraping in Python - DataCamp**
   - **Credential** `ID #12974093`
 
-- Introduction to Natural Language Processing in Python - DataCamp**
+- **Introduction to Natural Language Processing in Python - DataCamp**
   - **Credential** `ID #12827447`
+
+#### Projects:
+1. `Build a Python Package`
+2. `Deploy a Sentiment Analysis Model with Amazon SageMaker`
+3. `Plagiarism Detector`
+4. `Dog Breed Classification with Deep Learning`
+5. `Facial Keypoint Detection`
+6. `Automatic Image Captioning`
+7. `Landmark Detection and Tracking`
+
 
 
 ### Skills
