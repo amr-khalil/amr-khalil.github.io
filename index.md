@@ -69,7 +69,7 @@
   2. **Advanced Computer Vision and Deep Learning**
      - Learn to apply deep learning architectures to computer vision tasks. Discover how to combine CNN and RNN networks to build an  automatic image captioning application.
 
-  3 - **Object Tracking and Localization**
+  3. **Object Tracking and Localization**
       - Learn how to locate an object and track it over time. These techniques are used in a variety of moving systems, such as self-driving car navigation and drone flight.
 
 
