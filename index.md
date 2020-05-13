@@ -16,9 +16,9 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 
 ## Experience
 
-´´´Architect
+```Architect```
 
-__Wenzel + Wenzel__
+_Wenzel + Wenzel_
 
 Sep 2018 – Present (1 yr 9 mos)
 
