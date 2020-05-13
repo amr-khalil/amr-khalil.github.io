@@ -134,30 +134,32 @@ Issued Mar 2020
 
 
 ### Skills
-- Data Science
-- Deep Learning
-- Natural Language Processing (NLP)
-- Machine Learning
-- Architecture  Construction  
-- Building Information Modeling (BIM)
-- Computer Vision
-- Data Analysis
-- Artificial Intelligence (AI) 
-- Reinforcement Learning
+- ```Data Science
+- ```Deep Learning
+- ```Natural Language Processing (NLP)
+- ```Machine Learning
+- ```Architecture  Construction  
+- ```Building Information Modeling (BIM)
+- ```Computer Vision
+- ```Data Analysis
+- ```Artificial Intelligence (AI) 
+- ```Reinforcement Learning
 
 ### Programming Languages
-- Python
-- R
+- ```Python *****
+- ```R      **** 
+- ```Java   ** 
 
 ### Softwares
-- Keras
-- Tensorflow
-- Pytorch
-- Sklearn
-- Matplotlib
-- Pandas
+- ```Keras  
+- ```Tensorflow
+- ```Pytorch
+- ```Sklearn
+- ```Matplotlib
+- ```Pandas
 
 ### Languages
-- German
-- English
-- Arabic
+- ```German  ****
+- ```English ****
+- ```Arabic  *****
+ 
