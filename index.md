@@ -11,7 +11,7 @@
 
 
 ## Summary
-Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical inteligence application. I recently using Python to building apps using Machine learning, NLP, Computer Vision and Neuralnetworks. 
+  Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical inteligence application. I recently using Python to building apps using Machine learning, NLP, Computer Vision and Neuralnetworks. 
 
 
 ## Experience
@@ -34,13 +34,13 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 ## Education
 
 - ### Master of Science - MS, Big data & Business Analytics
-  - **FOM University of Applied Sciences for Economics and Management**
-  - 2019 – 2021
+    - **FOM University of Applied Sciences for Economics and Management**
+    - 2019 – 2021
 
 - ### Machine Learning Engineer Nanodegree, Computer Science
-  - *Udacity*
-  - 2019 – 2020
-  - Credential: https://graduation.udacity.com/confirm/C6C5HFRM
+    - **Udacity**
+    - 2019 – 2020
+    - **Credential**: https://graduation.udacity.com/confirm/C6C5HFRM
 
   **Curriculum:**
 
@@ -60,32 +60,31 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
 
 ### Computer Vision Nanodegree, Computer Science
 - **Udacity**
-- _2019 – 2020_
+- 2019 – 2020
 - **Credential:** https://confirm.udacity.com/EMQDJ9GT
 
-1.  **Introduction to Computer Vision**
-    - Master computer vision and image processing essentials. Learn to extract important features from image data, and apply deep  learning     techniques to classification tasks.
+  1.  **Introduction to Computer Vision**
+      - Master computer vision and image processing essentials. Learn to extract important features from image data, and apply deep  learning     techniques to classification tasks.
 
-2. **Advanced Computer Vision and Deep Learning**
-   - Learn to apply deep learning architectures to computer vision tasks. Discover how to combine CNN and RNN networks to build an  automatic image captioning application.
+  2. **Advanced Computer Vision and Deep Learning**
+     - Learn to apply deep learning architectures to computer vision tasks. Discover how to combine CNN and RNN networks to build an  automatic image captioning application.
 
-3 - **Object Tracking and Localization**
-    - Learn how to locate an object and track it over time. These techniques are used in a variety of moving systems, such as self-driving car navigation and drone flight.
+  3 - **Object Tracking and Localization**
+      - Learn how to locate an object and track it over time. These techniques are used in a variety of moving systems, such as self-driving car navigation and drone flight.
 
 
 
 ### Bachelor of Applied Science - BASc, Wirtschaftsinformatik
-- **FOM University of Applied Sciences for Economics and Management**
-- 2018 – 2019
-- Überbrückungskurse zur Big Data Master
+  - **FOM University of Applied Sciences for Economics and Management**
+  - 2018 – 2019
+  - Überbrückungskurse zur Big Data Master
 
 
 ### Bachelor's degree, Architectural Engineering
   - **Suez Canal University**
   - 2011 – 2016
   
-</hr>
-
+  
 ### Licenses & certifications
 
 #### Object-Oriented Programming in Python - DataCamp**
@@ -98,43 +97,43 @@ Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical 
   - **Credential** `ID #12827447`
 
 ### Projects:
-1. `Build a Python Package`
-2. `Deploy a Sentiment Analysis Model with Amazon SageMaker`
-3. `Plagiarism Detector`
-4. `Dog Breed Classification with Deep Learning`
-5. `Facial Keypoint Detection`
-6. `Automatic Image Captioning`
-7. `Landmark Detection and Tracking`
+  1. `Build a Python Package`
+  2. `Deploy a Sentiment Analysis Model with Amazon SageMaker`
+  3. `Plagiarism Detector`
+  4. `Dog Breed Classification with Deep Learning`
+  5. `Facial Keypoint Detection`
+  6. `Automatic Image Captioning`
+  7. `Landmark Detection and Tracking`
 
 
 
 ### Skills
-- `Data Science`
-- `Deep Learning`
-- `Natural Language Processing (NLP)`
-- `Machine Learning`
-- `Architecture  Construction`  
-- `Building Information Modeling (BIM)`
-- `Computer Vision`
-- `Data Analysis`
-- `Artificial Intelligence (AI)`
-- `Reinforcement Learning`
+  - `Data Science`
+  - `Deep Learning`
+  - `Natural Language Processing (NLP)`
+  - `Machine Learning`
+  - `Architecture  Construction`  
+  - `Building Information Modeling (BIM)`
+  - `Computer Vision`
+  - `Data Analysis`
+  - `Artificial Intelligence (AI)`
+  - `Reinforcement Learning`
 
 ### Programming Languages
-- `Python`
-- `R`       
-- `Java` 
+  - `Python`
+  - `R`       
+  - `Java` 
 
 ### Softwares
-- `Keras`
-- `Tensorflow`
-- `Pytorch`
-- `Sklearn`
-- `Matplotlib`
-- `Pandas`
+  - `Keras`
+  - `Tensorflow`
+  - `Pytorch`
+  - `Sklearn`
+  - `Matplotlib`
+  - `Pandas`
 
 ### Languages
-- `German`
-- `English`
-- `Arabic`
- 
+  - `German`
+  - `English`
+  - `Arabic`
+
