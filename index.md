@@ -34,25 +34,28 @@ Working with Revit and dynamo 3D model to produce a 3D Model for B.O.Q.
 
 **Intern**
 
-Wenzel + Wenzel
-Jun 2017 – Nov 2017 (6 mos)
+_Wenzel + Wenzel_
+
+_Jun 2017 – Nov 2017 (6 mos)_
 
 
 ### Education
 
-**Master of Science - MS, Big data & Business Analytics**
+```**Master of Science - MS, Big data & Business Analytics**```
 
-FOM University of Applied Sciences for Economics and Management
-2019 – 2021
+_FOM University of Applied Sciences for Economics and Management_
 
-**Machine Learning Engineer Nanodegree, Computer Science**
+_2019 – 2021_
 
-Udacity
+```**Machine Learning Engineer Nanodegree, Computer Science**```
+
+_Udacity_
+
 2019 – 2020
 
 [Credential:](https://graduation.udacity.com/confirm/C6C5HFRM)
 
-- **Software Engineering Fundamentals**
+- Software Engineering Fundamentals**
 
   In this lesson, you’ll write production-level code and practice object-oriented programming, which you can integrate into machine       learning projects.
 
@@ -68,10 +71,10 @@ In this capstone lesson, you’ll select a machine learning challenge and propos
 
 #### Projects:
 
-1. **Build a Python Package**
-2. **Deploy a Sentiment Analysis Model with Amazon SageMaker
-3. **Plagiarism Detector**
-4. **Dog Breed Classification with Deep Learning**
+1. ```**Build a Python Package**```
+2. ```**Deploy a Sentiment Analysis Model with Amazon SageMaker**```
+3. ```**Plagiarism Detector**```
+4. ```**Dog Breed Classification with Deep Learning**```
 
 ### Computer Vision Nanodegree, Computer Science
 
@@ -93,29 +96,29 @@ https://confirm.udacity.com/EMQDJ9GT
 
 **Projects:**
 
-1- Facial Keypoint Detection
-2- Automatic Image Captioning
-3- Landmark Detection and Tracking
+1- ```Facial Keypoint Detection```
+2- ```Automatic Image Captioning```
+3- ```Landmark Detection and Tracking```
 
 
-**Bachelor of Applied Science - BASc, Wirtschaftsinformatik**
-FOM University of Applied Sciences for Economics and Management
+### Bachelor of Applied Science - BASc, Wirtschaftsinformatik
 
-2018 – 2019
+_FOM University of Applied Sciences for Economics and Management_
+
+_2018 – 2019_
 
 Überbrückungskurse zur Big Data Master
 
 
-Logo for Suez Canal University
+### Bachelor's degree, Architectural Engineering
 Suez Canal University
-Bachelor's degree, Architectural Engineering
 
-2011 – 2016
+_2011 – 2016_
 
 
 ### Licenses & certifications
 
-**Object-Oriented Programming in Python - DataCamp**
+Object-Oriented Programming in Python - DataCamp**
 Issued Mar 2020
 
 **Credential ID** #13015790
