@@ -5,8 +5,8 @@
 
 ### Contact
 - [Github](https://github.com/amr-khalil)
-- E-mail: `amr.alshemaly93@gmail.com´
-- [Linkedin] (linkedin.com/in/amrk)
+- E-mail: amr.alshemaly93@gmail.com
+- [Linkedin](https://linkedin.com/in/amrk)
 - Tel: +49 1733666656
 
 
