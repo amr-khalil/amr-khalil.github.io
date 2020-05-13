@@ -1,24 +1,24 @@
 # Amr Khalil 
-### Architect | Machine Learning Engineer
-### Frankfurt a.M., Germany
-![Image](https://avatars0.githubusercontent.com/u/44541932?s=460&u=c82f26710ab8f7347e228787bc9183f57c03e52a&v=4)
+## Architect | Machine Learning Engineer
+## Frankfurt a.M., Germany
+![Image](https://media-exp1.licdn.com/dms/image/C4E03AQEOGFI_q39YJw/profile-displayphoto-shrink_200_200/0?e=1594857600&v=beta&t=S23XUsYQ6T3z67begsRGdBMbzV0OUI-zM5oX6OiTLwQ)
 
-#### Contact
+### Contact
 - [Github](https://github.com/amr-khalil)
 - E-mail: `amr.alshemaly93@gmail.com´
 - [Linkedin] (linkedin.com/in/amrk)
 - Tel: +49 1733666656
 
 
-### Summary
+## Summary
 Hi, I'm Amr. I'd love to share my passion on software skills to build Artifical inteligence application. I recently using Python to building apps using Machine learning, NLP, Computer Vision and Neuralnetworks. 
 
 
-### Experience
+## Experience
 
-**Architect**
+´´´Architect
 
-''Wenzel + Wenzel''
+__Wenzel + Wenzel__
 
 Sep 2018 – Present (1 yr 9 mos)
 
@@ -66,14 +66,14 @@ Apply machine learning techniques to solve real-world tasks; explore data and de
 Machine Learning Capstone
 In this capstone lesson, you’ll select a machine learning challenge and propose a possible solution.
 
-**Projects:**
+#### Projects:
 
-1- Build a Python Package
-2- Deploy a Sentiment Analysis Model with Amazon SageMaker
-3- Plagiarism Detector
-4- Dog Breed Classification with Deep Learning
+1. **Build a Python Package**
+2. **Deploy a Sentiment Analysis Model with Amazon SageMaker
+3. **Plagiarism Detector**
+4. **Dog Breed Classification with Deep Learning**
 
-**Computer Vision Nanodegree, Computer Science**
+### Computer Vision Nanodegree, Computer Science
 
 Udacity
 
