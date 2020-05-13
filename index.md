@@ -58,10 +58,10 @@
 
 
 
-### Computer Vision Nanodegree, Computer Science
-- **Udacity**
-- 2019 – 2020
-- **Credential:** https://confirm.udacity.com/EMQDJ9GT
+- ### Computer Vision Nanodegree, Computer Science
+  - **Udacity**
+  - 2019 – 2020
+  - **Credential:** https://confirm.udacity.com/EMQDJ9GT
 
   1.  **Introduction to Computer Vision**
       - Master computer vision and image processing essentials. Learn to extract important features from image data, and apply deep  learning     techniques to classification tasks.
@@ -74,13 +74,13 @@
 
 
 
-### Bachelor of Applied Science - BASc, Wirtschaftsinformatik
+- ### Bachelor of Applied Science - BASc, Wirtschaftsinformatik
   - **FOM University of Applied Sciences for Economics and Management**
   - 2018 – 2019
   - Überbrückungskurse zur Big Data Master
 
 
-### Bachelor's degree, Architectural Engineering
+- ### Bachelor's degree, Architectural Engineering
   - **Suez Canal University**
   - 2011 – 2016
   
