@@ -1,0 +1,815 @@
+img {
+  -webkit-filter: grayscale(40%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(40%);
+
+}
+
+
+nav a {
+  color: black;
+  text-decoration: none;
+
+}
+
+nav a:hover {
+  color: gray;
+  text-decoration: none;
+
+}
+
+
+
+.card img{
+  width: 100px;
+  height: 100px;
+  margin-left: 70px;
+  filter:contrast(200%);
+
+}
+
+
+.card-title{
+  font-weight: bold;
+}
+
+.container{
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.row{‚‚
+  margin: 0px;
+  padding: 0px;
+}
+
+.header{
+  margin-top: 100px;
+}
+
+.menu .text{
+  margin-left: 0%;
+  position: absolute;
+  display: block;
+  position: absolute;
+  top:20%;
+  z-index: 2;
+}
+
+.menu .text .top_text{
+  font-size: 19px;
+  text-transform: uppercase; 
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.menu .text .center_text{
+  font-size: 59px;
+  font-weight: bold;
+  letter-spacing: 5px; 
+}
+
+.menu .text .bottom_text{
+  font-size: 30px;
+}
+
+/* my_info */
+.menu .my_info{
+  z-index: 2;
+  position: absolute; 
+}
+
+.photo_frame{
+  position: relative;
+  border: 8px solid;
+  height: 75vh;
+  border-radius: 10px;
+  color: gray;
+}
+
+.photo_frame .photo img{
+  width: 100%;
+  height: 74vh;
+  object-fit: cover;
+  position: absolute;
+  right: 3vw;
+  bottom: 2vh;
+  z-index: 1;
+  border-radius: 10px;
+}
+
+.my_info{
+  margin-top: 20px;  
+}
+
+.my_info button{
+  margin-right: 5px;
+  border-radius: 0;
+  padding: 3px;
+  background: transparent;
+  border-bottom: 1px solid black;
+}
+
+.my_info button:hover{
+  color: white;
+  background: rgba(0,0,0,0.8);
+  padding: 3px;
+  border-radius: 3px;
+  border-bottom: none;
+}
+
+/*About me*/
+.about_me{
+  margin-top: 60px;
+}
+
+.about_me .title{
+  margin-bottom: 20px;
+}
+
+.about_me .portfolio{
+  border-left: 1px solid;
+}
+
+.about_text{
+  padding-left: 5px;
+}
+
+.size_32{
+  font-size:32px;
+}
+
+.size_24{
+  font-size: 24px;
+}
+
+.size_26{
+  font-size: 26px;
+}
+
+.size_34{
+  font-size: 34px;
+}
+
+.size_22{
+  font-size: 22px;
+}
+
+.size_25{
+  font-size: 25px;
+}
+
+.size_45{
+    font-size: 45px;
+  }
+
+/* My skills */
+.my_skills{
+  margin-top: 100px;
+}
+
+.my_skills .title{
+  margin-bottom: 50px;
+}
+
+.my_skills .row .skill{
+  padding: 5px;
+}
+
+.my_skills .row .skill_body{
+  padding: 2px;
+  border-radius: 5px;
+  margin: 0px;
+  border: 1px solid rgba(0,0,0,0.2);
+  min-height: 135px;
+}
+.my_skills .row .skill .row .image{
+  padding: 0px;
+}
+
+.my_skills .row .skill .row .image img{
+  padding: 2px;
+  width: 100%;
+}
+
+.my_skills .row .skill .row .desc{
+  padding: 0px 4px 4px 4px;
+  font-size: 14px;
+}
+
+/* button holder */
+
+.load_more_buttons{
+  text-align: center;
+}
+
+
+/* Portfolio */
+
+.works{
+  margin-top: 100px;
+  padding: 0px;
+}
+
+.works .labels{
+  margin-top: 50px;
+  color: rgba(0,0,0,0.6);
+}
+
+.works .labels .row .label_name{
+  font-weight: bold;
+}
+
+.works .labels .row .label{
+  margin: 0px;
+}
+
+.works .labels .row .label_name:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.works .labels .row .label_count{
+  font-size: 10px;
+  font-weight: bold;
+  position: absolute;
+  top: -10px;
+  margin-left: 6px;
+}
+
+.works .display_box{
+  margin-top: 25px;
+}
+
+.works .display_box .display_menu{
+  text-align: right;
+  margin-top: -25px;
+  margin-bottom: 20px;
+}
+
+.works .display_box .projects_holder{
+  padding: 0px;
+}
+
+.works .display_box .projects_holder .project{
+  background-size: contain;
+  height: 180px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+.works .display_box .projects_holder .project .project_body{
+  height: 180px;
+  border-radius: 5px;
+}
+
+.works .display_box .projects_holder .project .project_info{
+  color: #fff;
+  top: auto;
+  bottom: auto;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 10px;
+  z-index: 2;
+}
+
+.works .display_box .projects_holder .project .project_info .title a{
+  color: #fff;
+}
+
+.works .display_box .projects_holder .project:hover .project_body{
+  box-shadow: 2px 5px 20px 8px rgba(145, 145, 145, .8);
+}
+
+
+
+/* Contact me */
+.get_in_touch{
+  padding: 0px;
+  margin-top: 100px;
+}
+
+.get_in_touch textarea{
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid rgba(0,0,0,.2)
+}
+
+.get_in_touch input{
+  border-radius: 5px;
+  width: 100%;
+  border: 1px solid rgba(0,0,0,.3);
+}
+
+/* footer */
+.footer{
+  padding: 3px;
+  margin-top: 120px;
+  border-top: 1px solid rgba(0,0,0,0.2);  
+  text-align: center;
+  font-size: 14px;
+}
+
+
+
+/* Mobile Optimization */
+@media(max-width: 812px){
+  
+  .container{
+    padding: 1%;
+  }
+  
+  .photo_frame .photo img{
+    height: 30vh;
+  }
+  
+  .photo_frame{
+    height: 30vh;
+    border: 5px solid;
+  }
+  
+  .menu{
+    padding: 0px;
+  }
+  
+  .menu .text{
+    padding: 0px;
+    margin-left: 1%;
+  }
+  
+  .menu .text .top_text{
+    font-size: 13px;
+  }
+  
+  .menu .text .center_text{
+    font-size: 28px;
+  }
+  
+  .menu .text .bottom_text{
+    font-size: 15px;
+  }
+  
+  .my_info button{
+    font-size: 11px;
+    font-weight:bold;
+  }
+  
+  .about_me .about_text{
+    font-size: 12px;
+  }
+  
+  .skill_body .title h4{
+    font-size: 12px;
+  }
+  
+  .my_skills .row .skill .row .desc {
+    font-size: 10px;
+  }
+  
+  .my_skills .row .skill_body {
+    min-height: 140px;
+  }
+  
+  .my_skills .row .skill .row .image img{
+    width: 30px;
+    height: 30px;
+  }
+  
+  .works .display_box .projects_holder .project .project_body .project_info{
+    padding: 2px;
+  }
+  
+  .works .display_box .projects_holder .project .project_info .title h3{
+    font-size: 1rem;
+  }
+  
+  .works .display_box .projects_holder .project .project_info .date{
+    font-size: 11px;
+  }
+  
+  .works .display_box .projects_holder .project .project_info .desc{
+    font-size: 10px;
+  }
+  
+  .size_32{
+    font-size:22px;
+  }
+
+  .size_24{
+    font-size: 14px;
+  }
+
+  .size_26{
+    font-size: 16px;
+  }
+
+  .size_34{
+    font-size: 24px;
+  }
+
+  .size_22{
+    font-size: 12px;
+  }
+
+  .size_25{
+    font-size: 15px;
+  }
+
+  .size_45{
+      font-size: 25px;
+   }
+  
+  .about_me .portfolio{
+    border-left: none;
+    margin-top: 20px;
+  }
+  
+}
+
+@media(max-width: 1024px){
+  .photo_frame{
+    height: 36vh;
+  }
+      .photo_frame .photo img{
+        height: 35vh;
+      }
+}
+
+
+
+/* Scroll Down */
+
+@bg: #2d2d37; // Dark blue
+@primary: #fd6b21; // Orange
+
+a { color: black; text-decoration: none; }
+
+.arrow {
+  text-align: center;
+}
+.bounce {
+  -moz-animation: bounce 2s infinite;
+  -webkit-animation: bounce 2s infinite;
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+
+/* Skills Bar */
+.skillsbar{
+  margin:0px;;
+  padding:0px;
+}
+
+
+.skillsbar .wrapper{
+  background-color:grey;
+  margin:0px;
+  padding:0px;
+}
+.skillsbar div{
+  margin:10px 0px;
+  padding:2px 10px;
+  border-radius:5px;
+  color:white;
+}
+.php{background-color:#1D1F20;}
+.css{background-color:#1D1F20;}
+.htm{background-color:#1D1F20;}
+.javascript{background-color:#1D1F20}
+.php,
+.css,
+.htm,
+.javascript {width:17%;}
+
+.skillsbar .php1{
+  width:87%;
+  transition:2s;
+  background-color:#1D1F20;
+  -webkit-backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    -webkit-transform: translate3d(0,0,0);
+    /* or */
+    -webkit-transform: translateZ(0);
+}
+.skillsbar .css1{width:50%;
+transition:2s;
+background-color:#1D1F20;
+-webkit-backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    -webkit-transform: translate3d(0,0,0);
+    /* or */
+    -webkit-transform: translateZ(0);}
+.skillsbar .htm1{
+  width:71%;
+  transition:2s;
+  background-color:#1D1F20;
+  -webkit-backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    -webkit-transform: translate3d(0,0,0);
+    /* or */
+    -webkit-transform: translateZ(0);
+}
+.skillsbar .javascript1{
+  width:64%;
+  transition:2s;
+  background-color:#1D1F20;
+  -webkit-backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    -webkit-transform: translate3d(0,0,0);
+    /* or */
+    -webkit-transform: translateZ(0);
+}
+.skillsbar span{float:right;
+font-size:12px;
+margin-top:2px;}
+
+
+
+/*TEST*/
+
+
+
+.func a {
+  text-decoration: none;
+  color: #555;
+  display: block;
+  transition-duration: 0.3s;
+}
+
+.func ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.func h3 {
+  color: #3d405b;
+  margin: 10px 0;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+.resume {
+  position: relative;
+  display: flex;
+}
+.resume::before {
+  content: "";
+
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.resume::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.resume .base, .resume .func {
+  box-sizing: border-box;
+  float: left;
+}
+.resume .base > div, .resume .func > div {
+  padding-bottom: 10px;
+}
+.resume .base > div:last-of-type, .resume .func > div:last-of-type {
+  padding-bottom: 0;
+}
+.resume .base {
+  width: 225px;
+  padding: 30px 15px;
+  background: rgba(238, 238, 238, 0.6);
+}
+
+
+.resume .func {
+  color: black;
+}
+.resume .func:hover > div {
+  transition-duration: 0.3s;
+}
+.resume .func:hover > div:hover h3 {
+  letter-spacing: 1.6px;
+}
+.resume .func:hover > div:hover h3 i {
+  transform: scale(1.2);
+}
+.resume .func:hover > div:not(:hover) {
+  opacity: 0.5;
+}
+.resume .func h3 {
+  transition-duration: 0.3s;
+  margin-top: 0;
+}
+.resume .func h3 i {
+  color: white;
+  background: black;
+  width: 42px;
+  height: 42px;
+  font-size: 20px;
+  line-height: 42px;
+  border-radius: 50%;
+  text-align: center;
+  vertical-align: middle;
+  margin-right: 8px;
+  transition-duration: 0.3s;
+}
+
+.resume .func .work, .resume .func .edu {
+  float: left;
+}
+.resume .func .work small, .resume .func .edu small {
+  display: block;
+  opacity: 0.7;
+}
+.resume .func .work ul li, .resume .func .edu ul li {
+  position: relative;
+  margin-left: 15px;
+  padding-left: 25px;
+  padding-bottom: 15px;
+}
+.resume .func .work ul li:hover::before, .resume .func .edu ul li:hover::before {
+  animation: circle 1.2s infinite;
+}
+.resume .func .work ul li:hover span, .resume .func .edu ul li:hover span {
+  color: #e07a5f;
+}
+@keyframes circle {
+  from {
+    box-shadow: 0 0 0 0px #3d405b;
+  }
+  to {
+    box-shadow: 0 0 0 6px rgba(61, 64, 91, 0);
+  }
+}
+.resume .func .work ul li:first-of-type::before, .resume .func .edu ul li:first-of-type::before {
+  width: 10px;
+  height: 10px;
+  left: -2px;
+}
+.resume .func .work ul li:last-of-type, .resume .func .edu ul li:last-of-type {
+  padding-bottom: 3px;
+}
+.resume .func .work ul li:last-of-type::after, .resume .func .edu ul li:last-of-type::after {
+  border-radius: 1.5px;
+}
+.resume .func .work ul li::before, .resume .func .work ul li::after, .resume .func .edu ul li::before, .resume .func .edu ul li::after {
+  content: "";
+  display: block;
+  position: absolute;
+}
+.resume .func .work ul li::before, .resume .func .edu ul li::before {
+  width: 7px;
+  height: 7px;
+  border: 3px solid #3d405b;
+  background: #fcfcfc;
+  border-radius: 50%;
+  left: 0;
+  z-index: 1;
+}
+.resume .func .work ul li::after, .resume .func .edu ul li::after {
+  width: 3px;
+  height: 100%;
+  background: #3d405b;
+  left: 5px;
+  top: 0;
+}
+.resume .func .work ul li span, .resume .func .edu ul li span {
+  transition-duration: 0.3s;
+}
+.resume .func .work {
+  width: 100%;
+}
+.resume .func .edu {
+  width: 100%;
+}
+.resume .func .skills-prog {
+  clear: both;
+}
+.resume .func .skills-prog ul {
+  margin-left: 15px;
+}
+.resume .func .skills-prog ul li {
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  transition-duration: 0.3s;
+}
+.resume .func .skills-prog ul li:hover {
+  color: #e07a5f;
+}
+.resume .func .skills-prog ul li:hover .skills-bar .bar {
+  background: #e07a5f;
+  box-shadow: 0 0 0 1px #e07a5f;
+}
+.resume .func .skills-prog ul li span {
+  display: block;
+  width: 120px;
+}
+.resume .func .skills-prog ul li .skills-bar {
+  background: #cdcdcd;
+  height: 2px;
+  width: calc(100% - 120px);
+  position: relative;
+  border-radius: 2px;
+}
+.resume .func .skills-prog ul li .skills-bar .bar {
+  position: absolute;
+  top: -1px;
+  height: 4px;
+  background: black;
+  box-shadow: 0 0 0 black;
+  border-radius: 5px;
+}
+.resume .func .skills-soft ul {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+.resume .func .skills-soft ul li {
+  position: relative;
+}
+.resume .func .skills-soft ul li:hover svg .cbar {
+  stroke: #e07a5f;
+  stroke-width: 4px;
+}
+.resume .func .skills-soft ul li:hover span, .resume .func .skills-soft ul li:hover small {
+  transform: scale(1.2);
+}
+.resume .func .skills-soft ul li svg {
+  width: 95%;
+  fill: transparent;
+  transform: rotate(-90deg);
+}
+.resume .func .skills-soft ul li svg circle {
+  stroke-width: 1px;
+  stroke: #cdcdcd;
+}
+.resume .func .skills-soft ul li svg .cbar {
+  stroke-width: 3px;
+  stroke: black;
+  stroke-linecap: round;
+}
+.resume .func .skills-soft ul li span, .resume .func .skills-soft ul li small {
+  position: absolute;
+  display: block;
+  width: 100%;
+  top: 52%;
+  transition-duration: 0.3s;
+}
+.resume .func .skills-soft ul li span {
+  top: 40%;
+}
+.resume .func .interests-items {
+  box-sizing: border-box;
+  padding: 15px;
+  width: 100%;
+  border: 1px solid #cdcdcd;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+.resume .func .interests-items div {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+}
+.resume .func .interests-items div:hover i {
+  transform: scale(1.2);
+}
+.resume .func .interests-items div:hover span {
+  color: #e07a5f;
+  transition-duration: 0.3s;
+}
+.resume .func .interests-items div i {
+  font-size: 45px;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  color: black;
+  transition-duration: 0.3s;
+}
+.resume .func .interests-items div i.guitar {
+  display: block;
+  margin: 0 auto;
+}
+.resume .func .interests-items div i.guitar svg {
+  width: 50px;
+  height: 50px;
+  margin-top: 5px;
+  fill: black;
+}
+.resume .func .interests-items div span {
+  display: block;
+}
