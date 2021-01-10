@@ -60,9 +60,16 @@ let arr={
       "title": "Legal Chatbot",
       "date": "Jan 2021",
       "desc": "Legal Chatbot is a robot lawyer to answer the legal issues using NLP.(UNDER DEVELOPMENT)",
-      "href": "http://www.legalbot.com.s3-website.eu-central-1.amazonaws.com/"
+      "href": "https://juristischer-chatbot.herokuapp.com/chatbot"
     },
     {
+      "thumb": "https://enelmundodelmarketing.com/wp-content/uploads/2017/11/CHATBOT-FACEBOOK-MESSENGER-BANNER.png",
+      "title": "AI FAQ-System",
+      "date": "Jan 2021",
+      "desc": "AI FAQ-System is a Text Mining Application. It is an Intelligent version from google powered with AI algorithms like Levenshtein, Cosine similarity , TF-IDF, Web mining algorithms, Text summarization (TextRank, LSA).",
+      "href": "https://juristischer-chatbot.herokuapp.com/FAQ"
+    },
+     {
       "thumb": "https://enelmundodelmarketing.com/wp-content/uploads/2017/11/CHATBOT-FACEBOOK-MESSENGER-BANNER.png",
       "title": "Chatbot for E-Commerce",
       "date": "Mar 2019",
@@ -74,7 +81,7 @@ let arr={
       "title": "Legal Voice Assistant",
       "date": "Jan 2021",
       "desc": "I added the feature of the voice recognition to the legal Chatbot.(UNDER DEVELOPMENT)",
-      "href": "#"
+      "href": "https://juristischer-chatbot.herokuapp.com/voice_assistant"
     },
     {
       "thumb": "https://image.freepik.com/free-vector/data-visualization-futuristic-technology-banner_1017-19565.jpg",
@@ -108,7 +115,14 @@ let arr={
       "title": "Legal Chatbot",
       "date": "Jan 2021",
       "desc": "Legal Chatbot is a robot lawyer to answer the legal issues using NLP.(UNDER DEVELOPMENT)",
-      "href": "http://www.legalbot.com.s3-website.eu-central-1.amazonaws.com/"
+      "href": "https://juristischer-chatbot.herokuapp.com/chatbot"
+    },
+    {
+      "thumb": "https://assets.phenompeople.com/CareerConnectResources/prod/BOOKUS/en_us/common/image_gallery/blog-1550765223570.jpg",
+      "title": "AI FAQ-System",
+      "date": "Jan 2021",
+      "desc": "AI FAQ-System is a Text Mining Application. It is an Intelligent version from google powered with AI algorithms like Levenshtein, Cosine similarity , TF-IDF, Web mining algorithms, Text summarization (TextRank, LSA).",
+      "href": "https://juristischer-chatbot.herokuapp.com/FAQ"
     },
     {
       "thumb": "https://enelmundodelmarketing.com/wp-content/uploads/2017/11/CHATBOT-FACEBOOK-MESSENGER-BANNER.png",
