@@ -49,7 +49,7 @@ let arr={
   //Featured
   "NLP": [
     {
-       "thumb": "https://lionbridge.ai/wp-content/uploads/2020/09/2020-09-08_text-classification-tools-services.jpg",
+      "thumb": "https://lionbridge.ai/wp-content/uploads/2020/09/2020-09-08_text-classification-tools-services.jpg",
       "title": "German News Classifier",
       "date": "Mar 2020",
       "desc": "Germa News Classifier is a text classification app for German language. In this project I scarped +100K German articles with labels and trained them with NLP and neural network.",
@@ -63,10 +63,10 @@ let arr={
       "href": "https://juristischer-chatbot.herokuapp.com/chatbot"
     },
     {
-      "thumb": "https://enelmundodelmarketing.com/wp-content/uploads/2017/11/CHATBOT-FACEBOOK-MESSENGER-BANNER.png",
+      "thumb": "https://www.jellyfin.eu/wp-content/uploads/2020/04/faq-1.png",
       "title": "AI FAQ-System",
       "date": "Jan 2021",
-      "desc": "AI FAQ-System is a Text Mining Application. It is an Intelligent version from google powered with AI algorithms like Levenshtein, Cosine similarity , TF-IDF, Web mining algorithms, Text summarization (TextRank, LSA).",
+      "desc": "AI FAQ-System is a Text Mining Application. It is an Intelligent version from google powered with AI algorithms like Levenshtein, Cosine similarity , TF-IDF, Web mining, Text summarization (TextRank, LSA).",
       "href": "https://juristischer-chatbot.herokuapp.com/FAQ"
     },
      {
@@ -118,10 +118,10 @@ let arr={
       "href": "https://juristischer-chatbot.herokuapp.com/chatbot"
     },
     {
-      "thumb": "https://assets.phenompeople.com/CareerConnectResources/prod/BOOKUS/en_us/common/image_gallery/blog-1550765223570.jpg",
+      "thumb": "https://www.jellyfin.eu/wp-content/uploads/2020/04/faq-1.png",
       "title": "AI FAQ-System",
       "date": "Jan 2021",
-      "desc": "AI FAQ-System is a Text Mining Application. It is an Intelligent version from google powered with AI algorithms like Levenshtein, Cosine similarity , TF-IDF, Web mining algorithms, Text summarization (TextRank, LSA).",
+      "desc": "AI FAQ-System is a Text Mining Application. It is an Intelligent version from google powered with AI algorithms like Levenshtein, Cosine similarity , TF-IDF, Web mining, Text summarization (TextRank, LSA).",
       "href": "https://juristischer-chatbot.herokuapp.com/FAQ"
     },
     {
