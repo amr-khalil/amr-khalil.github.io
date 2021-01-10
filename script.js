@@ -136,7 +136,7 @@ let arr={
       "title": "Legal Voice Assistant",
       "date": "Jan 2021",
       "desc": "I added the feature of the voice recognition to the legal Chatbot.(UNDER DEVELOPMENT)",
-      "href": "#"
+      "href": "https://juristischer-chatbot.herokuapp.com/voice_assistant"
     },
     {
       "thumb": "https://image.freepik.com/free-vector/data-visualization-futuristic-technology-banner_1017-19565.jpg",
